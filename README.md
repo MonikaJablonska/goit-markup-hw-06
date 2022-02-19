@@ -1,6 +1,6 @@
 # goit-markup-hw-06
 
-Zadanie 6 (28.02.2022)
+Zadanie 6 (21.02.2022)
 
 Link do GitHub Pages:
 
