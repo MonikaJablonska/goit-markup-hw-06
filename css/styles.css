@@ -737,6 +737,10 @@ img {
   align-self: center;
 }
 
+.modal-form-link {
+   color: var(--accent);
+}
+
 .checkbox-input {
   -webkit-appearance: none;
   appearance: none;
